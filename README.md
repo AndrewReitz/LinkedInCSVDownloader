@@ -5,6 +5,10 @@
 This application adds an icon in your url bar while on linked in pages. This button, when clicked will parse the page for people on the page.
 Then the FirstName, LastName, Title, Location, and Industry of the found people are placed into a csv and download. This works best on the people search page.
 
+### Installation
+
+In Chrome, choose Window > Extensions.  Drag [LinkedInCsv.crx](https://raw.github.com/pieces029/LinkedInCSVDownloader/master/LinkedInCsv.crx) into the page that appears.
+
 ### License
 
     Copyright 2014 Andrew Reitz
