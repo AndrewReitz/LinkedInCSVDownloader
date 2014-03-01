@@ -7,7 +7,7 @@ Then the FirstName, LastName, Title, Location, and Industry of the found people 
 
 ### Installation
 
-In Chrome, click [here](chrome://extensions/).  Drag [LinkedInCsv.crx](https://raw.github.com/pieces029/LinkedInCSVDownloader/master/LinkedInCsv.crx) into the page that appears.
+In Chrome, go to [chrome://extensions](chrome://extensions/) or Hamburger Button -> Settings -> Extensions.  Drag [LinkedInCsv.crx](https://raw.github.com/pieces029/LinkedInCSVDownloader/master/LinkedInCsv.crx) into the page that appears.
 
 ### License
 
